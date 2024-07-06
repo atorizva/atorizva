@@ -5,12 +5,10 @@
 
 - 🏢 I'm on the verge of finishing my studies and looking for job opportunities.
 - 👨‍🔬 I've been involved in several research projects across different fields.
-- ⚙️ Languages I use: **Python, C/C++, MATLAB**.
-- 💻 Tools I use: **Linux, WSL, Pandas, PySpark, Jupyter, Numpy, Sklearn, OpenCV, Pytorch, etc...**
-- 📖 I'm learning:
-  - **R**
-  - **Docker**
-  - **Kubernetes**
+- ⚙️ Languages: **Python, C/C++, MATLAB, SQL**.
+- 💻 Tools: **Linux, Git, CMake, WSL, venv**
+- 📚 Frameworks: **Pandas, PySpark, Jupyter, Numpy, Sklearn, OpenCV, Pytorch, etc...**
+- 📖 Learning: **Docker, Kubernetes, vcpkg, R**
 - 🗣️ Interests: artificial intelligence, data science, image processing, state estimation.
 - 😄 Passionate about reproducible environments and good practices (Beware, very **Strong** opinions)
 
