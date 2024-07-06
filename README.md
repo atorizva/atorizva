@@ -6,7 +6,7 @@
 - 🏢 I'm on the verge of finishing my studies and looking for job opportunities.
 - 👨‍🔬 I've been involved in several research projects across different fields.
 - ⚙️ Languages: **Python, C/C++, MATLAB, SQL**.
-- 💻 Tools: **Linux, Git, CMake, WSL, venv, etc...**
+- 💻 Tools: **Linux, Git, CMake, WSL, venv, nix...**
 - 📚 Frameworks: **Pandas, PySpark, Jupyter, Numpy, Sklearn, OpenCV, Pytorch, etc...**
 - 📖 Learning: **Docker, Kubernetes, vcpkg**.
 - 🗣️ Interests: artificial intelligence, data science, image processing, state estimation, algorithms, mathematics.
