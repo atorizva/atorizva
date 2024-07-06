@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hola! I'm Alfonso :v:
+---
 
-<!--
-**atorizva/atorizva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Master's student in Computer Science at Universidad Nacional Autónoma de México.
 
-Here are some ideas to get you started:
+- 🏢 I'm on the verge of finishing my studies and looking for job opportunities.
+- 👨‍🔬 I've been involved in several research projects across different fields.
+- ⚙️ Languages I use: **Python, C/C++, MATLAB**.
+- 💻 Tools I use: **Linux, WSL, Pandas, PySpark, Jupyter, Numpy, Sklearn, OpenCV, Pytorch, etc...**
+- 📖 I'm learning:
+  - **R**
+  - **Docker**
+  - **Kubernetes**
+- 🗣️ Interests: artificial intelligence, data science, image processing, state estimation.
+- 😄 Passionate about reproducible environments and good practices (Beware, very **Strong** opinions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Find me around the web 🌎:
+- 💼 Work related stuff on <a href="https://www.linkedin.com/in/atorizva/">LinkedIn</a>
+
+---
