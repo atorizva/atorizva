@@ -7,7 +7,7 @@
 - 👨‍🔬 I've been involved in several research projects across different fields.
 - ⚙️ Languages: **Python, C/C++, MATLAB, SQL**.
 - 💻 Tools: **Linux, Git, CMake, WSL, venv, nix...**
-- 📚 Frameworks: **Pandas, PySpark, Jupyter, Numpy, Sklearn, OpenCV, Pytorch, etc...**
+- 📚 Frameworks: **Pandas, PySpark, Jupyter, Numpy, Sklearn, OpenCV, Pytorch, Eigen, etc...**
 - 📖 Learning: **Docker, Kubernetes, vcpkg**.
 - 🗣️ Interests: artificial intelligence, data science, image processing, state estimation, algorithms, mathematics.
 - 😄 Passionate about reproducible environments and good practices (Beware, very **Strong** opinions)
