@@ -1,15 +1,14 @@
 ### Hola! I'm Alfonso :v:
 ---
 
-#### I'm a Master's student in Computer Science at Universidad Nacional Autónoma de México.
+#### I'm a data engineer at day and curious enthusiast at night
 
-- 🏢 I'm on the verge of finishing my studies and looking for job opportunities.
-- 👨‍🔬 I've been involved in several research projects across different fields.
-- ⚙️ Languages: **Python, C/C++, MATLAB, SQL**.
-- 💻 Tools: **Linux, Git, CMake, WSL, venv, nix...**
-- 📚 Frameworks: **Pandas, PySpark, Jupyter, Numpy, Sklearn, OpenCV, Pytorch, Eigen, etc...**
-- 📖 Learning: **Docker, Kubernetes, vcpkg**.
-- 🗣️ Interests: artificial intelligence, data science, image processing, state estimation, algorithms, mathematics.
+- ⚙️ **Programming Languages**: Python, C/C++, MATLAB, SQL, DAX.
+- 💻 **Development and CI/CD**: Git, Docker, Databricks, Jupyter...
+- 🖼️ **Data visualization**: Power BI.
+- 📚 **Frameworks**: Pandas, PySpark, Jupyter, Numpy, Scikit-Learn, OpenCV, Eigen...
+- 📖 **Learning**: Azure.
+- 🗣️ **Interests**: artificial intelligence, data science, image processing, state estimation, algorithms, mathematics and computer science in general.
 - 😄 Passionate about reproducible environments and good practices (Beware, very **Strong** opinions)
 
 #### Find me around the web 🌎:
