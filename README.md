@@ -1,14 +1,15 @@
 ### Hola! I'm Alfonso :v:
 ---
 
-#### I'm a data engineer at day and curious enthusiast at night
+#### Data engineer during the day, avid reader at night
 
-- ⚙️ **Programming Languages**: Python, C/C++, MATLAB, SQL, DAX.
-- 💻 **Development and CI/CD**: Git, Docker, Databricks, Jupyter...
+- ⚙️ **Programming Languages**: Python, SQL,  C/C++, MATLAB, DAX.
+- 💻 **Development and CI/CD**: git, Docker, Databricks, Azure Functions, etc.
+- ☁️ **Cloud**: Azure.
 - 🖼️ **Data visualization**: Power BI.
-- 📚 **Frameworks**: Pandas, PySpark, Jupyter, Numpy, Scikit-Learn, OpenCV, Eigen...
-- 📖 **Learning**: Azure.
-- 🗣️ **Interests**: artificial intelligence, data science, image processing, state estimation, algorithms, mathematics and computer science in general.
+- 📚 **Frameworks**: Pydantic, Pandas, PySpark, Numpy, Scikit-Learn, OpenCV, Eigen, etc.
+- 📖 **Learning**: Scala.
+- 🗣️ **Interests**: mathematics and computer science in general.
 - 😄 Passionate about reproducible environments and good practices (Beware, very **Strong** opinions)
 
 #### Find me around the web 🌎:
